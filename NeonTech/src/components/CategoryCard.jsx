@@ -1,7 +1,5 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import { ShoppingCart, Search, User } from "lucide-react";
-import ProductCard from "./ProductCard";
 
 const CategoryCard = ({ category, products }) => {
     const [expanded, setExpanded] = useState(false);

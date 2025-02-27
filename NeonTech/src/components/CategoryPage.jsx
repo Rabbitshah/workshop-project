@@ -1,8 +1,6 @@
 import React from "react";
 import Navbar from "./Navbar";
 import { motion } from "framer-motion";
-
-import ProductGrid from "./ProductGrid";
 import Footer from "./Footer";
 import sampleProducts from "../pages/ProductDetails";
 import CategoryCard from "./CategoryCard";

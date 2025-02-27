@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import { ShoppingCart, Search, User } from "lucide-react";
 import { Link } from "react-router-dom";
-import Navbar from "../components/Navbar";
 
 const Signup = () => {
   return (

@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import Navbar from "../components/Navbar";
 import HeroSection from "../components/HeroSection";
 import ProductGrid from "../components/ProductGrid";
-import Footer from "../components/Footer";
 import sampleProducts from "./ProductDetails";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
