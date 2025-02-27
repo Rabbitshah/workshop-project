@@ -14,9 +14,7 @@ const Signup = () => {
       NeonTech
       </Link>
       <div className="bg-gray-800 p-8 rounded-lg shadow-lg w-full max-w-md">
-        <h1 className="text-3xl font-bold text-center mb-6">
-          Signup on Wanderlust
-        </h1>
+       
         <form action="/signup" method="post" className="space-y-4">
           <div>
             <label htmlFor="username" className="block text-sm font-medium">
