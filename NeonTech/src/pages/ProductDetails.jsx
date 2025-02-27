@@ -75,7 +75,7 @@ const sampleProducts = [
     id: 10, 
     name: "Wireless Earbuds", 
     price: 149, 
-    image: "/laptop.jpg", 
+    image: "/earbuds.jpg", 
     category: "Audio", 
     rating: 4.5 
   }
